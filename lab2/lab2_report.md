@@ -116,6 +116,9 @@ Push Docker image
 
 Deploy step
 
+<img width="708" height="625" alt="Снимок экрана 2026-03-17 в 1 31 14 AM" src="https://github.com/user-attachments/assets/52f9ef80-19e3-4fc3-8997-0349a07fab06" />
+
+
 # Результат
 
 Docker-образ был успешно собран и опубликован в Docker Hub.
