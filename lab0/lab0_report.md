@@ -15,30 +15,34 @@ Date of finished: -
 
 ---
 
-## Objective
+## Цель работы
 
-The goal of this lab was to learn how to create a GitHub repository, 
-configure SSH authentication, work with branches, commits, and pull 
-requests.
+Целью данной лабораторной работы было изучение процесса создания репозитория на GitHub, настройки SSH-аутентификации, а также освоение работы с ветками, коммитами и Pull Request.
 
-## Tasks Completed
+---
 
-1. Created a GitHub repository
-2. Configured SSH keys for secure authentication
-3. Cloned the repository locally
-4. Created a develop branch
-5. Added project documentation files:
-   - README.md
-   - .gitignore
-   - CONTRIBUTING.md
-6. Committed changes with message "Initial project setup"
-7. Pushed the develop branch to GitHub
-8. Created a Pull Request
-9. Merged develop into main
-10. Deleted develop branch
+## Выполненные задачи
 
-## Result
+В ходе работы были выполнены следующие действия:
 
-The repository was successfully initialized and configured according to 
-DevOps workflow practices.
+- Создан репозиторий на GitHub  
+- Настроены SSH-ключи для безопасной аутентификации  
+- Выполнено клонирование репозитория на локальную машину  
+- Создана ветка `develop`  
+- Добавлены файлы документации проекта:  
+  - `README.md`  
+  - `.gitignore`  
+  - `CONTRIBUTING.md`  
+- Выполнен коммит с сообщением **"Initial project setup"**  
+- Ветка `develop` отправлена в удалённый репозиторий  
+- Создан Pull Request  
+- Выполнено слияние ветки `develop` в `main`  
+- Ветка `develop` удалена  
+
+---
+
+## Результат
+
+Репозиторий был успешно инициализирован и настроен в соответствии с практиками DevOps-разработки.  
+Освоены базовые навыки работы с GitHub, включая ветвление, управление изменениями и процесс слияния кода.
 
