@@ -33,6 +33,9 @@ docker --version
 
 Результат: отображена версия Docker.
 
+<img width="568" height="297" alt="Снимок экрана 2026-03-17 в 12 21 06 AM" src="https://github.com/user-attachments/assets/f52a5417-0d49-4934-bcaa-7450d40db600" />
+
+
 ---
 
 ## 2. Запуск тестового контейнера
