@@ -27,7 +27,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: voroshninaeva111@gmail.com/my-flask-app:latest
+          tags: voroshnina/my-flask-app:latest
 
       - name: Deploy step
         run: echo "Deploy step completed"
