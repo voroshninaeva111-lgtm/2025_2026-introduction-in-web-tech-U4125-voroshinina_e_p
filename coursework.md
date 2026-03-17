@@ -106,6 +106,20 @@ https://voroshninaeva111-lgtm.github.io/my-personal-site/
 
 <img width="1435" height="829" alt="Снимок экрана 2026-03-17 в 7 42 54 PM" src="https://github.com/user-attachments/assets/b053a730-452c-4849-8c93-9ae7673ae74a" />
 
-![Uploading Снимок экрана 2026-03-17 в 7.43.16 PM.png…]()
+<img width="1447" height="830" alt="Снимок экрана 2026-03-17 в 7 46 32 PM" src="https://github.com/user-attachments/assets/c51b2bea-35e3-4dc7-95a9-a3747f0a4a56" />
 
+Страница "Проекты"
 
+<img width="1445" height="829" alt="Снимок экрана 2026-03-17 в 7 46 48 PM" src="https://github.com/user-attachments/assets/b3ebf721-ad83-4400-b6c3-00934b6889a5" />
+
+Страница "Контакты"
+
+<img width="1458" height="828" alt="Снимок экрана 2026-03-17 в 7 47 04 PM" src="https://github.com/user-attachments/assets/31e106e0-878d-4a0f-9139-78740ebfbda6" />
+
+Страница "Резюме" 
+
+<img width="1439" height="827" alt="Снимок экрана 2026-03-17 в 7 47 13 PM" src="https://github.com/user-attachments/assets/70a9b604-402e-4590-83ee-3d4899fd4d19" />
+
+Страница "Достижения"
+
+<img width="1442" height="827" alt="Снимок экрана 2026-03-17 в 7 47 41 PM" src="https://github.com/user-attachments/assets/030722ee-a38a-4922-86a8-4a139fc68a04" />
